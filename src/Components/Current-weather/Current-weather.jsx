@@ -19,6 +19,10 @@ const CurrentWeather = () => {
                 <p className="temprature">18°C</p>
                 <div className="details">
                     <div className="parameter__row">
+                        <span className="parameter__label top">Details</span>
+                        {/* <span className="parameter__value">22°C</span> */}
+                    </div>
+                    <div className="parameter__row">
                         <span className="parameter__label">Feels like</span>
                         <span className="parameter__value">22°C</span>
                     </div>

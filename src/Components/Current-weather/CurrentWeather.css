@@ -50,3 +50,19 @@
     display: flex;
     justify-content: space-between;
 }
+
+.parameter__label {
+    text-align: left;
+    font-weight: 400;
+    font-size: 12px;
+}
+
+.parameter__value {
+    text-align: right;
+    font-weight: 600;
+    font-size: 12px;
+}
+/* 
+.parameter__label.top {
+    border-bottom: 1px solid #fff;
+} */
